@@ -249,7 +249,7 @@ Unter: LINK
 
 Oder manuell im Projekt Verzeichniss starten
 ```bash
-pip install streamlit pandas matplotlib pillow
+pip install -r requirements.txt
 streamlit run scripts/05_visualization/dashboard.py
 ```
 
