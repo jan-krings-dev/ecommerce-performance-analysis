@@ -27,7 +27,7 @@ Operative Verbesserungen in der Logistik sowie gezielte Strategien zur Kundenbin
 
 ## Dashboard Overview
 
-![Dashboard Overview](../assets/screenshots/dashboard_overview.png)
+![Dashboard Overview](../assets/screenshots/dashboard_overview.PNG)
 ---
 
 ## Inhaltsverzeichnis
@@ -196,7 +196,7 @@ Zentrale Grundlage:
 
 → Abhängigkeit von High-Value-Kunden  
 
-![Revenue Distribution](../assets/screenshots/revenue_distribution.png)
+![Revenue Distribution](../assets/screenshots/revenue_distribution.PNG)
 
 ---
 
@@ -219,7 +219,7 @@ Zentrale Grundlage:
 
 → operative Ineffizienzen vorhanden  
 
-![Delivery Performance](../assets/screenshots/delivery_performance.png)
+![Delivery Performance](../assets/screenshots/delivery_performance.PNG)
 
 ---
 
@@ -230,7 +230,7 @@ Zentrale Grundlage:
 
 → zentraler Zusammenhang im System  
 
-![Review vs Delivery](../assets/screenshots/review_delivery.png)
+![Review vs Delivery](../assets/screenshots/review_delivery.PNG)
 
 ---
 
@@ -241,7 +241,7 @@ Zentrale Grundlage:
 
 → Haupttreiber = Delivery  
 
-![Root Cause Analysis](../assets/screenshots/root_cause.png)
+![Root Cause Analysis](../assets/screenshots/root_cause.PNG)
 
 ---
 
@@ -259,7 +259,7 @@ Zentrale Grundlage:
 
 → Potenzial für Retention-Strategien  
 
-![Customer Segmentation](../assets/screenshots/customer_segments.png)
+![Customer Segmentation](../assets/screenshots/customer_segments.PNG)
 
 ---
 

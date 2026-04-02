@@ -5,7 +5,7 @@
 End-to-End Analyseprojekt auf Basis realer Marktplatzdaten (Olist, Brasilien).  
 Ziel ist der Aufbau einer strukturierten Analysebasis, die operative Zusammenhänge sichtbar macht und flexible, ad-hoc Auswertungen ermöglicht.
 
-[Zur vollen Dokumentation](docs\documentation.md)
+[Zur vollen Dokumentation](docs/documentation.md)
 ---
 
 ## Executive Summary
@@ -25,7 +25,7 @@ Operative Faktoren – insbesondere Lieferzeiten – bestimmen maßgeblich die C
 
 ## Dashboard Overview
 
-![Dashboard Overview](assets/screenshots/dashboard_overview.png)
+![Dashboard Overview](assets/screenshots/dashboard_overview.PNG)
 
 ---
 
@@ -78,7 +78,7 @@ Leitfrage:
 - Product & Category  
 - Payment Analysis  
 
-![Dashboard Navigation](assets/screenshots/navigation.png)
+![Dashboard Navigation](assets/screenshots/navigation.PNG)
 
 ---
 
@@ -86,7 +86,7 @@ Leitfrage:
 
 ### 1. Umsatzkonzentration (Customer Perspective)
 
-![Revenue Distribution](assets/screenshots/revenue_distribution.png)
+![Revenue Distribution](assets/screenshots/revenue_distribution.PNG)
 
 - klare Pareto-Struktur  
 - Top-Kunden generieren Großteil des Umsatzes  
@@ -99,7 +99,7 @@ Leitfrage:
 
 ### 2. Seller Concentration
 
-![Seller Concentration](assets/screenshots/seller_concentration.png)
+![Seller Concentration](assets/screenshots/seller_concentration.PNG)
 
 - wenige Seller dominieren Umsatz  
 - Long-Tail-Struktur  
@@ -112,7 +112,7 @@ Leitfrage:
 
 ### 3. Delivery Performance
 
-![Delivery Performance](assets/screenshots/delivery_performance.png)
+![Delivery Performance](assets/screenshots/delivery_performance.PNG)
 
 - stabile durchschnittliche Lieferzeit  
 - jedoch hohe Varianz  
@@ -126,7 +126,7 @@ Leitfrage:
 
 ### 4. Review vs Delivery (Kernanalyse)
 
-![Review vs Delivery](assets/screenshots/review_delivery.png)
+![Review vs Delivery](assets/screenshots/review_delivery.PNG)
 
 - klare negative Korrelation  
 - verspätete Lieferungen → deutlich schlechtere Bewertungen  
@@ -138,7 +138,7 @@ Leitfrage:
 
 ### 5. Root Cause Analysis
 
-![Low Review Drivers](assets/screenshots/root_cause.png)
+![Low Review Drivers](assets/screenshots/root_cause.PNG)
 
 - hohe Late-Delivery-Rate bei schlechten Bewertungen  
 - kaum Zusammenhang mit Order Value  
@@ -150,7 +150,7 @@ Leitfrage:
 
 ### 6. Customer Segmentation
 
-![Customer Segments](assets/screenshots/customer_segments.png)
+![Customer Segments](assets/screenshots/customer_segments.PNG)
 
 - wenige High-Value-Kunden treiben Umsatz  
 - viele Low-Value-Kunden  
@@ -163,7 +163,7 @@ Leitfrage:
 
 ### 7. Product & Category
 
-![Category Performance](assets/screenshots/category_performance.png)
+![Category Performance](assets/screenshots/category_performance.PNG)
 
 - wenige Kategorien dominieren Umsatz  
 - Unterschiede zwischen Volumen und Qualität  
@@ -172,7 +172,7 @@ Leitfrage:
 
 ### 8. Payment Analysis (optional)
 
-![Payment Analysis](assets/screenshots/payment_analysis.png)
+![Payment Analysis](assets/screenshots/payment_analysis.PNG)
 
 - Kreditkarte dominiert  
 - geringer Einfluss auf Performance  
