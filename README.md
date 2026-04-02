@@ -245,7 +245,7 @@ Das Projekt zeigt:
 
 ## Dashboard
 
-Unter: LINK
+Unter: [Streamlit Dashboard](https://ecommerce-performance-analysis-bcbe7kq7bksjvg5cxeoge3.streamlit.app/)
 
 Oder manuell im Projekt Verzeichniss starten
 ```bash
