@@ -1,0 +1,9 @@
+order_status,orders_count,avg_delivery_days,avg_delivery_delay_days,late_deliveries,late_delivery_rate
+delivered,96478,12.56,-11.18,7826,0.0811
+shipped,1107,,,0,
+canceled,625,20.36,-27.16,1,0.1667
+unavailable,609,,,0,
+invoiced,314,,,0,
+processing,301,,,0,
+created,5,,,0,
+approved,2,,,0,

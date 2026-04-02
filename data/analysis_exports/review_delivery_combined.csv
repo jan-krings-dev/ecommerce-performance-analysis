@@ -1,0 +1,11 @@
+delivery_bucket,delivery_type,orders_count,avg_review_score
+< 3 days,late,18,4.61
+< 3 days,on_time,4715,4.48
+3-6 days,late,206,4.26
+3-6 days,on_time,20993,4.41
+7-13 days,late,515,3.64
+7-13 days,on_time,39486,4.32
+14-20 days,late,840,3.37
+14-20 days,on_time,16742,4.18
+21+ days,late,6083,2.30
+21+ days,on_time,6232,3.92

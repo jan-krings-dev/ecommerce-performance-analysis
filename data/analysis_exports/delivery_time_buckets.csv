@@ -1,0 +1,7 @@
+delivery_bucket,orders_count,orders_share
+7-13 days,40216,0.4044
+3-6 days,21292,0.2141
+14-20 days,17713,0.1781
+21+ days,12502,0.1257
+< 3 days,4753,0.0478
+not_delivered,2965,0.0298

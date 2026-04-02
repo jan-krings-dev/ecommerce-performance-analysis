@@ -1,0 +1,5 @@
+payment_type,orders_count,avg_delivery_days,late_delivery_rate
+credit_card,74303,12.36,0.0795
+boleto,19191,13.49,0.0888
+voucher,3679,12.69,0.0677
+debit_card,1484,10.79,0.0795

@@ -1,0 +1,7 @@
+revenue_segment,delivery_type,orders_count,avg_review_score,avg_delivery_days,late_delivery_rate,avg_order_value
+high_value,late,2692,2.45,33.31,1.0000,338.39
+high_value,on_time_or_early,28347,4.22,11.85,0.0000,327.18
+low_value,late,1146,2.73,27.01,1.0000,37.22
+low_value,on_time_or_early,15225,4.36,9.35,0.0000,36.85
+mid_value,late,3824,2.60,31.32,1.0000,93.89
+mid_value,on_time_or_early,44596,4.32,10.78,0.0000,92.96

@@ -1,0 +1,6 @@
+customer_segment,orders_count,avg_order_value,avg_delivery_days,avg_delivery_delay_days,late_delivery_rate,avg_review_score
+mid_value_one_time,46991,112.26,12.76,-11.18,0.0805,4.10
+low_value_occasional,24702,43.55,10.92,-10.66,0.0695,4.17
+high_value_one_time,22139,394.95,13.98,-11.58,0.0869,3.96
+core_customers,4875,160.95,12.60,-11.88,0.0720,4.10
+high_value_loyal,733,176.65,12.08,-12.57,0.0668,4.24

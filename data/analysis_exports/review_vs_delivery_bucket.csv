@@ -1,0 +1,6 @@
+delivery_bucket,orders_count,avg_review_score,avg_order_revenue,late_delivery_rate
+< 3 days,4733,4.48,121.35,0.0038
+3-6 days,21199,4.40,140.78,0.0097
+7-13 days,40001,4.31,160.18,0.0129
+14-20 days,17582,4.14,172.92,0.0478
+21+ days,12315,3.12,185.72,0.4940

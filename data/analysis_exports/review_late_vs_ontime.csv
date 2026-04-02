@@ -1,0 +1,3 @@
+delivery_type,orders_count,avg_review_score,avg_delivery_days,avg_order_revenue
+late,7662,2.57,31.38,171.30
+on_time_or_early,88168,4.29,10.88,158.57

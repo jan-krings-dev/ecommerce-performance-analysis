@@ -1,0 +1,6 @@
+review_score,orders_count,avg_delivery_days,avg_delivery_delay_days,late_delivery_rate,avg_order_revenue
+1,9316,21.34,-3.34,0.3792,193.46
+2,2924,16.67,-7.93,0.2062,170.37
+3,7947,14.26,-10.07,0.1101,151.06
+4,18892,12.31,-11.68,0.0502,154.67
+5,56751,10.68,-12.68,0.0300,156.31

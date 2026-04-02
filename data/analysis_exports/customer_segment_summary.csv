@@ -1,0 +1,6 @@
+customer_segment,customers,total_orders,total_revenue,avg_revenue_per_customer,avg_order_value,avg_delivery_days,avg_late_delivery_rate,avg_review_score,revenue_share,customer_share
+high_value_one_time,22139,22139,8743764.52,394.95,394.95,13.98,0.0869,3.96,0.5462,0.2304
+mid_value_one_time,46991,46991,5275116.32,112.26,112.26,12.76,0.0805,4.10,0.3295,0.4890
+low_value_occasional,24331,24702,1075855.56,44.22,43.60,10.93,0.0700,4.17,0.0672,0.2532
+core_customers,2420,4875,784648.88,324.24,161.79,12.61,0.0722,4.10,0.0490,0.0252
+high_value_loyal,214,733,129486.84,605.08,180.78,12.13,0.0680,4.20,0.0081,0.0022
